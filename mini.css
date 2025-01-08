@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdf7f3;
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{
+    background-color: #4b2e27;
+    color: white;
+    text-align: center;
+font-variant: small-caps;
+padding: 20px 0;
+font-size: 24px;
+
+}
+
+pre {
+    text-align: center;
+    background-color: #815d4b;
+    color: white;
+       height: 20px  center;
+ 
+}
+div {
+    text-align: center;
+
+background: #f3e4d4 url("C:\Users\Orange\Desktop\ht,cs\cake.jpeg") no-repeat center;
+
+}
+.gg { 
+
+    text-align: left;
+    font-family: "Playwrite NL Guides", serif;
+    font-weight: 400; 
+    font-style: normal;
+    background-color: #fdf7f3;
+
+
+}
+ .ss {
+    
+     text-align: left;
+     font-family: "Playwrite NL Guides", serif;
+     font-weight: 400;
+     font-style: normal;
+     background-color: #fdf7f3;
+
+ }
+
+ .u :hover {
+background: pink;
+
+ }
+ #o li:hover { 
+    background: palevioletred;
+ }
+
+ h2 {
+   color: white;
+    text-align: center;
+
+ }
+h6 {
+
+text-align: center;
+color: #4b2e27;
+background-color: #f3e4d4;
+width: 70px;
+height: 20px ;
+}
+.p { 
+background-color: #4b2e27;
+color: white;
+text-align: center;
+
+}
+span:hover {
+    color: red;
+}
+
+
+/* footer {
+
+
+
+
+} */
+
+
+.bg{
+    height: 300px;    
+    background-image: url("../ckc.jpg"); 
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+@media only screen and (max-width: 600px) {
+   }
